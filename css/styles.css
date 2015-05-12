@@ -1,0 +1,46 @@
+/***container in widget after widget title***/
+.ilw-ini,.ilw-tracklist{}
+/****************************************************************
+	[loading gif]
+****************************************************************/
+.itunes-lookup-widget .ilw-load{background:url(img/ajax-loader.gif) center center no-repeat #ffffff;background-color:inherit;width:100%;min-height:200px;}
+/****************************************************************
+	[subtitles]
+****************************************************************/
+.ilw-ini h3,.ilw-tracklist h3{font-size:100%;}
+.ilw-ini h4,.ilw-tracklist h4{font-size:100%;}
+/****************************************************************
+	[sublists (such as movies,albums, software, podcasts etc)]
+****************************************************************/
+.ilw-ini>ul,							.ilw-ini>div>ul{}
+.ilw-ini>ul>li,							.ilw-ini>div>ul>li{margin-bottom:5px;}
+.ilw-ini>ul>li>p,						.ilw-ini>div>ul>li>p{overflow:auto;font-size:75%;}/*p that holds the info within the list*/
+.ilw-ini>ul>li>p>span,					.ilw-ini>div>ul>li>p>span{font-size:110%;font-weight:600}/**title**/
+.ilw-ini>ul>li>p img,					.ilw-ini>div>ul>li>p img{float:left;margin-right:5px;}
+.ilw-ini>ul>li>p>span.rgt,				.ilw-ini>div>ul>li>p>span.rgt{font-weight:normal;float:right}
+.ilw-ini>ul>li>p>span.lft,				.ilw-ini>div>ul>li>p>span.lft{font-weight:normal;float:left}
+.ilw-ini>ul>li>p a.itunes-link,			.ilw-ini>div>ul>li>p a.itunes-link{padding-left:5px;}
+.ilw-ini>ul>li>p a.itunes-link:after ,	.ilw-ini>div>ul>li>p a.itunes-link:after { content:"\25B8";padding-left:3px;}
+
+/**description*/
+.ilw-ini>ul>li>p.descr,				.ilw-ini>div>ul>li>p.descr{display:none}
+
+/****************************************************************
+	[sub-sub list (i.e tracklist)]
+****************************************************************/
+.ilw-tracklist>p				{overflow:auto;font-size:75%;line-height: 15px;}
+.ilw-tracklist>p>span			{font-size:110%;font-weight:600}
+.ilw-tracklist>p>span.rgt		{font-weight:normal}
+.ilw-tracklist>p a.itunes-link	{padding-left:5px;}
+.ilw-tracklist>p a.itunes-link:after	{content:"\25B8";padding-left:3px;}
+.ilw-tracklist>p img			{float:left;margin-right:5px;}
+
+.ilw-tracklist>div>.back	{text-align:center;display:block}
+.ilw-tracklist>div>ul		{padding:0}
+.ilw-tracklist>div>ul>li	{font-size:75%;overflow:auto}
+/**track counter**/
+.ilw-tracklist>div>ul>li>span.count{display:inline-block;min-width:15px}
+/**right align**/
+.ilw-tracklist>div>ul>li>span.rgt{float:right;}
+.ilw-tracklist>div>ul>li a.itunes-link{float:right;padding-left:5px;}
+.ilw-tracklist>div>ul>li a.itunes-link:after{content:"\25B8";padding-left:3px;}

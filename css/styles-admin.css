@@ -1,0 +1,37 @@
+.itunes-lookup-widget .red{color:#FF0000}
+
+.itunes-lookup-widget .ilw-show-check{overflow: auto;margin:0;padding:0;display:block }
+.itunes-lookup-widget .ilw-show-check>div{display:block;font-size:90%;overflow:auto;}
+.itunes-lookup-widget .ilw-show-check>div>input{margin:0 3px}
+.itunes-lookup-widget .ilw-show-check .ilw-sort{width:25px;float:right}
+.itunes-lookup-widget .ilw-show-check .ilw-lbl{width:70px;float:right}
+
+.itunes-lookup-widget .ilw-shortcode{float:right}
+.itunes-lookup-widget .ilw-item-notes{margin-top:3px;padding:2px 0;background-color:#EFEFEF;border-top:1px dotted #999999}
+
+.itunes-lookup-widget .maxItems{width:25px;}
+.itunes-lookup-widget .sortKey{width:110px;margin:0}
+.itunes-lookup-widget .sortOrder{width:40px;margin:0}
+
+.itunes-lookup-widget .itunes-lookup-widget-idsearch{display:none;border:1px dotted #999999;padding:2px}
+.itunes-lookup-widget .ilw-id-search{float:right}
+.itunes-lookup-widget .itunes-lookup-widget-idsearch p{margin:0}
+.itunes-lookup-widget .ilw-select{background-color:#FFFFFF}
+.itunes-lookup-widget .ilw-search-info{color:#FF0000;line-height:11px;display:block}
+
+
+.itunes-lookup-widget .ilw-search-results{display:none;background:#FFFFFF;border: 1px solid #ccc;margin-bottom:5px;}
+.itunes-lookup-widget .ilw-search-results>h3{text-align:center;margin:0 3px;}
+.itunes-lookup-widget .ilw-search-results>span{display:block;text-align:center}
+.itunes-lookup-widget .ilw-search-results>.ilw-search-check{height: 100px;padding: 5px; overflow: auto; border-top: 1px solid #ccc;border-bottom: 1px solid #ccc}
+.itunes-lookup-widget .ilw-search-results>.ilw-search-check>label{display:block;font-size:90%}
+.itunes-lookup-widget .ilw-search-results>.ilw-search-check>label>input{margin-right:3px}
+
+.ilw-settings .nav-tab-wrapper{margin-bottom:0;border-bottom:none}
+.ilw-settings .ilw-settings-tab{display:none;border:1px solid #CCC;padding:5px}
+.ilw-settings #main_settings{display:block;border:1px solid #CCC}
+.ilw-settings .form-table th{width:500px;}
+.ilw-settings .ilw-aff-optn .ilw-aff-optn-inp{margin:5px 0}
+.ilw-settings .ilw-aff-optn .ilw-aff-optn-inp>span{display:block;width:210px;float:left;margin-top:8px;}
+.ilw-settings .ilw-aff-optn .ilw-aff-optn-inp>label{margin-right:5px;line-height:35px}
+.ilw-settings .ilw-aff-optn .ilw-aff-optn-inp>label>input{width:100px;}

@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iTunesLookuoWidget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-07 12:22-0000\n"
+"PO-Revision-Date: 2013-07-07 12:22-0000\n"
+"Last-Translator: ollybach <dev@1000db.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../itunes-lookup-widget.php:67
+msgid "on iTunes"
+msgstr "on iTunes"
+
+#: ../itunes-lookup-widget.php:85
+msgid "Display items available on iTunes "
+msgstr "Display items available on iTunes "
+
+#: ../itunes-lookup-widget.php:166
+msgid ""
+"iTunes Lookup Widget requires the server on which your site resides to be "
+"running PHP 5.2 or higher as well as cUrl. As of version 3.2, WordPress "
+"itself will also <a href=\"http://wordpress.org/news/2010/07/eol-for-php4-"
+"and-mysql4\">have this requirement</a>. You should get in touch with your "
+"web hosting provider and ask them to update PHP.<br /><br /><a href=\""
+msgstr ""
+"iTunes Lookup Widget requires the server on which your site resides to be "
+"running PHP 5.2 or higher as well as cUrl. As of version 3.2, WordPress "
+"itself will also <a href=\"http://wordpress.org/news/2010/07/eol-for-php4-"
+"and-mysql4\">have this requirement</a>. You should get in touch with your "
+"web hosting provider and ask them to update PHP.<br /><br /><a href=\""
+
+#: ../itunes-lookup-widget.php:529
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: ../inc/admin.default.affiliates.inc.php:13
+msgid ""
+"I do not have any affiliate relationships and/or would like to contribute to "
+"the development of this plugin."
+msgstr ""
+"I do not have any affiliate relationships and/or would like to contribute to "
+"the development of this plugin."
+
+#: ../inc/admin.default.affiliates.inc.php:13
+msgid ""
+"(this will insert the developers affiliate links if available, regardless of "
+"settings above)"
+msgstr ""
+"(this will insert the developers affiliate links if available, regardless of "
+"settings above)"
+
+#: ../inc/admin.default.affiliates.inc.php:15
+msgid "Tradedoubler"
+msgstr "Tradedoubler"
+
+#: ../inc/admin.default.affiliates.inc.php:16
+#: ../inc/admin.default.affiliates.inc.php:68
+msgid "Program ID"
+msgstr "Program ID"
+
+#: ../inc/admin.default.affiliates.inc.php:19
+#: ../inc/admin.default.affiliates.inc.php:71
+msgid "Website ID"
+msgstr "Website ID"
+
+#: ../inc/admin.default.affiliates.inc.php:23
+msgid "LinkShare USA"
+msgstr "LinkShare USA"
+
+#: ../inc/admin.default.affiliates.inc.php:24
+#: ../inc/admin.default.affiliates.inc.php:29
+#: ../inc/admin.default.affiliates.inc.php:76
+#: ../inc/admin.default.affiliates.inc.php:81
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+#: ../inc/admin.default.affiliates.inc.php:28
+msgid "LinkShare Canada"
+msgstr "LinkShare Canada"
+
+#: ../inc/admin.default.affiliates.inc.php:33
+msgid "DGM"
+msgstr "DGM"
+
+#: ../inc/admin.default.affiliates.inc.php:34
+#: ../inc/admin.default.affiliates.inc.php:86
+msgid "Partner ID"
+msgstr "Partner ID"
+
+#: ../inc/admin.default.affiliates.inc.php:65
+msgid "I want to use my own affiliate program links."
+msgstr "I want to use my own affiliate program links."
+
+#: ../inc/admin.default.affiliates.inc.php:65
+msgid ""
+"(please enter details as required, leave blank if you have no affiliate "
+"agreement in a given territory)"
+msgstr ""
+"(please enter details as required, leave blank if you have no affiliate "
+"agreement in a given territory)"
+
+#: ../inc/admin.default.affiliates.inc.php:67
+msgid "Europe (via Tradedoubler)"
+msgstr "Europe (via Tradedoubler)"
+
+#: ../inc/admin.default.affiliates.inc.php:75
+msgid "USA (via LinkShare)"
+msgstr "USA (via LinkShare)"
+
+#: ../inc/admin.default.affiliates.inc.php:80
+msgid "Canada (via LinkShare)"
+msgstr "Canada (via LinkShare)"
+
+#: ../inc/admin.default.affiliates.inc.php:85
+msgid "Australia, New Zealand (via DGM)"
+msgstr "Australia, New Zealand (via DGM)"
+
+#: ../inc/admin.default.affiliates.inc.php:91
+msgid ""
+"I do not want to use any *affilate* links at all. All links go directly to "
+"the iTunes store"
+msgstr ""
+"I do not want to use any *affilate* links at all. All links go directly to "
+"the iTunes store"
+
+#: ../inc/admin.default.affiliates.inc.php:93
+msgid ""
+"I do not want to use *any* links at all. Display widget without links to "
+"iTunes"
+msgstr ""
+"I do not want to use *any* links at all. Display widget without links to "
+"iTunes"
+
+#: ../inc/admin.default.frontend.inc.php:7
+msgid "Label for iTunes Release Date (if present)"
+msgstr "Label for iTunes Release Date (if present)"
+
+#: ../inc/admin.default.frontend.inc.php:7
+msgid "iTunes Release: "
+msgstr "iTunes Release: "
+
+#: ../inc/admin.default.frontend.inc.php:8
+msgid "Label for Genre (if present)"
+msgstr "Label for Genre (if present)"
+
+#: ../inc/admin.default.frontend.inc.php:8
+msgid "Genre: "
+msgstr "Genre: "
+
+#: ../inc/admin.default.frontend.inc.php:9
+msgid "Label for Average User Rating (if present)"
+msgstr "Label for Average User Rating (if present)"
+
+#: ../inc/admin.default.frontend.inc.php:9
+msgid "Average User Rating: "
+msgstr "Average User Rating: "
+
+#: ../inc/admin.default.frontend.inc.php:10
+msgid "Linktext to iTunes (Note: if left blank, there won't be any link !!)"
+msgstr "Linktext to iTunes (Note: if left blank, there won't be any link !!)"
+
+#: ../inc/admin.default.frontend.inc.php:10
+msgid "iTunes"
+msgstr "iTunes"
+
+#: ../inc/admin.default.frontend.inc.php:11
+msgid "Linktext to view Tracklist"
+msgstr "Linktext to view Tracklist"
+
+#: ../inc/admin.default.frontend.inc.php:11
+msgid "view Tracklist"
+msgstr "view Tracklist"
+
+#: ../inc/admin.default.frontend.inc.php:12
+msgid "Linktext to view full description (if present)"
+msgstr "Linktext to view full description (if present)"
+
+#: ../inc/admin.default.frontend.inc.php:12
+msgid "full Description"
+msgstr "full Description"
+
+#: ../inc/admin.default.frontend.inc.php:13
+msgid "Linktext to go back when viewing details (such as tracklists)"
+msgstr "Linktext to go back when viewing details (such as tracklists)"
+
+#: ../inc/admin.default.frontend.inc.php:13 ../views/admin.php:132
+msgid "back"
+msgstr "back"
+
+#: ../inc/admin.default.frontend.inc.php:14
+msgid "Linktext to close details (such as full descriptions)"
+msgstr "Linktext to close details (such as full descriptions)"
+
+#: ../inc/admin.default.frontend.inc.php:14
+msgid "[close]"
+msgstr "[close]"
+
+#: ../inc/admin.default.frontend.inc.php:15
+msgid "if iTunes price is free / 0.00"
+msgstr "if iTunes price is free / 0.00"
+
+#: ../inc/admin.default.frontend.inc.php:15
+msgid "free"
+msgstr "free"
+
+#: ../inc/admin.default.frontend.inc.php:28
+msgid "<b>main view:</b> item image"
+msgstr "<b>main view:</b> item image"
+
+#: ../inc/admin.default.frontend.inc.php:29
+msgid "<b>main view:</b> copyright info"
+msgstr "<b>main view:</b> copyright info"
+
+#: ../inc/admin.default.frontend.inc.php:30
+msgid "<b>main view:</b> release date"
+msgstr "<b>main view:</b> release date"
+
+#: ../inc/admin.default.frontend.inc.php:31
+msgid "<b>main view:</b> genre"
+msgstr "<b>main view:</b> genre"
+
+#: ../inc/admin.default.frontend.inc.php:32
+msgid "<b>main view:</b> average user rating"
+msgstr "<b>main view:</b> average user rating"
+
+#: ../inc/admin.default.frontend.inc.php:33
+msgid "<b>main view:</b> description"
+msgstr "<b>main view:</b> description"
+
+#: ../inc/admin.default.frontend.inc.php:34
+msgid "<b>main view:</b> price"
+msgstr "<b>main view:</b> price"
+
+#: ../inc/admin.default.frontend.inc.php:36
+msgid "<b>main view:</b> link to view tracklist"
+msgstr "<b>main view:</b> link to view tracklist"
+
+#: ../inc/admin.default.frontend.inc.php:38
+msgid "<b>tracklist view:</b> item image"
+msgstr "<b>tracklist view:</b> item image"
+
+#: ../inc/admin.default.frontend.inc.php:39
+msgid "<b>tracklist view:</b> copyright info"
+msgstr "<b>tracklist view:</b> copyright info"
+
+#: ../inc/admin.default.frontend.inc.php:40
+msgid "<b>tracklist view:</b> release date"
+msgstr "<b>tracklist view:</b> release date"
+
+#: ../inc/admin.default.frontend.inc.php:41
+msgid "<b>tracklist view:</b> price"
+msgstr "<b>tracklist view:</b> price"
+
+#: ../inc/admin.page.headers.inc.php:3
+msgid "Set Options as required"
+msgstr "Set Options as required"
+
+#: ../inc/admin.page.headers.inc.php:6
+msgid ""
+"Use the fields below to localize the frontend labels. Leave empty if you do "
+"not want to display any particular label"
+msgstr ""
+"Use the fields below to localize the frontend labels. Leave empty if you do "
+"not want to display any particular label"
+
+#: ../inc/admin.page.headers.inc.php:9
+msgid "uncheck the fields you do NOT want to display in the frontend widget"
+msgstr "uncheck the fields you do NOT want to display in the frontend widget"
+
+#: ../inc/admin.page.headers.inc.php:12
+msgid "set your affiliate options below"
+msgstr "set your affiliate options below"
+
+#: ../inc/admin.page.inputs.inc.php:78
+msgid ""
+"If you would like to contribute directly to the development of this plugin, "
+"feel free to do so via paypal below."
+msgstr ""
+"If you would like to contribute directly to the development of this plugin, "
+"feel free to do so via paypal below."
+
+#: ../inc/admin.page.inputs.inc.php:78
+msgid "Thank you, much appreciated."
+msgstr "Thank you, much appreciated."
+
+#: ../inc/admin.page.options.inc.php:5 ../inc/admin.page.wrapper.inc.php:5
+msgid "Main Settings"
+msgstr "Main Settings"
+
+#: ../inc/admin.page.options.inc.php:7
+msgid "Plugin Version:"
+msgstr "Plugin Version:"
+
+#: ../inc/admin.page.options.inc.php:8
+msgid "Cache Expiry Time:"
+msgstr "Cache Expiry Time:"
+
+#: ../inc/admin.page.options.inc.php:8
+msgid ""
+"[in Seconds] (0 to disable). I.e when do we re-fetch results from iTunes.<br/"
+">Default 1 week."
+msgstr ""
+"[in Seconds] (0 to disable). I.e when do we re-fetch results from iTunes.<br/"
+">Default 1 week."
+
+#: ../inc/admin.page.options.inc.php:9
+msgid "Cache Cleanup:"
+msgstr "Cache Cleanup:"
+
+#: ../inc/admin.page.options.inc.php:9
+msgid ""
+"[in Seconds] If you change widget settings often (and have cache enabled) "
+"the cache will fill with all these requests. Set the time here how often you "
+"want to run the cleanup. It will only delete files that are older than cache "
+"settings above of course.<br/>Default 1 week"
+msgstr ""
+"[in Seconds] If you change widget settings often (and have cache enabled) "
+"the cache will fill with all these requests. Set the time here how often you "
+"want to run the cleanup. It will only delete files that are older than cache "
+"settings above of course.<br/>Default 1 week"
+
+#: ../inc/admin.page.options.inc.php:10
+msgid "Javascript in Footer:"
+msgstr "Javascript in Footer:"
+
+#: ../inc/admin.page.options.inc.php:10
+msgid ""
+"[combines all jsVars in one tidy place, but requires wp_footer in theme]"
+msgstr ""
+"[combines all jsVars in one tidy place, but requires wp_footer in theme]"
+
+#: ../inc/admin.page.options.inc.php:11
+msgid "Javascript Priority:"
+msgstr "Javascript Priority:"
+
+#: ../inc/admin.page.options.inc.php:11
+msgid ""
+"Some plugins change priority / loadorder to other than the default of 10. If "
+"you have problems try decreasing this number. For example , \"javascript to "
+"footer\" uses 5 in which case, use 4 here.  [only used when javascript in "
+"footer is enabled]"
+msgstr ""
+"Some plugins change priority / loadorder to other than the default of 10. If "
+"you have problems try decreasing this number. For example , \"javascript to "
+"footer\" uses 5 in which case, use 4 here.  [only used when javascript in "
+"footer is enabled]"
+
+#: ../inc/admin.page.options.inc.php:12
+msgid "Include CSS:"
+msgstr "Include CSS:"
+
+#: ../inc/admin.page.options.inc.php:12
+msgid ""
+"include frontend css that came with this plugin (untick if you want to "
+"provide your own styles somewhere else)"
+msgstr ""
+"include frontend css that came with this plugin (untick if you want to "
+"provide your own styles somewhere else)"
+
+#: ../inc/admin.page.options.inc.php:15
+msgid "Localize Frontend"
+msgstr "Localize Frontend"
+
+#: ../inc/admin.page.options.inc.php:22
+msgid "Frontend Display Options"
+msgstr "Frontend Display Options"
+
+#: ../inc/admin.page.options.inc.php:28 ../inc/admin.page.wrapper.inc.php:8
+msgid "Affiliate Settings"
+msgstr "Affiliate Settings"
+
+#: ../inc/admin.page.options.inc.php:29
+msgid ""
+"<b>Contribute: [0 to disable]</b><br/>If you feel generous, you can "
+"contribute to the development of this plugin, by inserting the developers "
+"affiliate links on every n-th page.<br/>Example: if you set the value here "
+"to 10, every 10th page impression that has the widget/shortcode on it will "
+"insert the developers affiliate links instead of linking according to the "
+"settings below.<br/>If set to 13, every 13th page will have these links and "
+"so on.<br/>(this will of course only apply if you are actually displaying "
+"links to iTunes in some shape or form)."
+msgstr ""
+"<b>Contribute: [0 to disable]</b><br/>If you feel generous, you can "
+"contribute to the development of this plugin, by inserting the developers "
+"affiliate links on every n-th page.<br/>Example: if you set the value here "
+"to 10, every 10th page impression that has the widget/shortcode on it will "
+"insert the developers affiliate links instead of linking according to the "
+"settings below.<br/>If set to 13, every 13th page will have these links and "
+"so on.<br/>(this will of course only apply if you are actually displaying "
+"links to iTunes in some shape or form)."
+
+#: ../inc/admin.page.options.inc.php:30
+msgid ""
+"<b>Settings [select one]:</b><br/>please note: (as I understand it) "
+"affiliate links will only generate revenues in certain territories. If you "
+"have a tradedoubler account for - let's say - Italy[IT], you will have a "
+"program Id of 24373 . However, this ID is also valid to generate commission "
+"in and for the following countries and program id's<br/><b>[AT=>24380],"
+"[BE=>24379],[CH=>24372],[DE=>23761],[DK=>24375],[ES=>24364],[FI=>24366],"
+"[FR=>23753],[GB=>23708],[IE=>24367],[IT=>24373],[NL=>24371],[NO=>24369],"
+"[SE=>23762]</b><br/>(i.e. when you set your widget to search the stores in "
+"these countries)<br/><br/>Linktrade and DGM links will apply when your "
+"widget searches <b>[US,CA]</b> and <b>[AUS,NZ]</b> respectively (provided "
+"the affiliate id's are set).<br><br/><b>If you set your widget to search any "
+"other store than the ones mentioned above, the affiliate link will be "
+"ignored and a direct iTunes link will be used.</b> (this is also the case, "
+"if you have not set the relevant affiliate variables)<br/><br/>If you have "
+"any questions, or think I have gotten somthing wrong here, please let me "
+"know.<br/><br/><b>(please see the <a href=\"http://www.apple.com/itunes/"
+"affiliates/resources/documentation/linking-to-the-itunes-music-store."
+"html#AddingAffiliateTracking\">iTunes documentation</a> for details "
+"regarding affiliate links)</b>"
+msgstr ""
+"<b>Settings [select one]:</b><br/>please note: (as I understand it) "
+"affiliate links will only generate revenues in certain territories. If you "
+"have a tradedoubler account for - let's say - Italy[IT], you will have a "
+"program Id of 24373 . However, this ID is also valid to generate commission "
+"in and for the following countries and program id's<br/><b>[AT=>24380],"
+"[BE=>24379],[CH=>24372],[DE=>23761],[DK=>24375],[ES=>24364],[FI=>24366],"
+"[FR=>23753],[GB=>23708],[IE=>24367],[IT=>24373],[NL=>24371],[NO=>24369],"
+"[SE=>23762]</b><br/>(i.e. when you set your widget to search the stores in "
+"these countries)<br/><br/>Linktrade and DGM links will apply when your "
+"widget searches <b>[US,CA]</b> and <b>[AUS,NZ]</b> respectively (provided "
+"the affiliate id's are set).<br><br/><b>If you set your widget to search any "
+"other store than the ones mentioned above, the affiliate link will be "
+"ignored and a direct iTunes link will be used.</b> (this is also the case, "
+"if you have not set the relevant affiliate variables)<br/><br/>If you have "
+"any questions, or think I have gotten somthing wrong here, please let me "
+"know.<br/><br/><b>(please see the <a href=\"http://www.apple.com/itunes/"
+"affiliates/resources/documentation/linking-to-the-itunes-music-store."
+"html#AddingAffiliateTracking\">iTunes documentation</a> for details "
+"regarding affiliate links)</b>"
+
+#: ../inc/admin.page.options.inc.php:31
+msgid "<b>Open Links In New Window:</b>"
+msgstr "<b>Open Links In New Window:</b>"
+
+#: ../inc/admin.page.wrapper.inc.php:6
+msgid "Localization"
+msgstr "Localization"
+
+#: ../inc/admin.page.wrapper.inc.php:7
+msgid "Display"
+msgstr "Display"
+
+#: ../inc/admin.page.wrapper.inc.php:18
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../inc/common.output.functions.inc.php:288
+msgid "English"
+msgstr "English"
+
+#: ../inc/common.output.functions.inc.php:289
+msgid "Japanese"
+msgstr "Japanese"
+
+#: ../inc/common.output.functions.inc.php:302
+msgid "Default"
+msgstr "Default"
+
+#: ../inc/common.output.functions.inc.php:303
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/common.output.functions.inc.php:304
+msgid "Name"
+msgstr "Name"
+
+#: ../inc/common.output.functions.inc.php:305
+msgid "Release Date"
+msgstr "Release Date"
+
+#: ../inc/common.output.functions.inc.php:334
+msgid "Collections/Albums"
+msgstr "Collections/Albums"
+
+#: ../inc/common.output.functions.inc.php:335
+msgid "Feature Movies"
+msgstr "Feature Movies"
+
+#: ../inc/common.output.functions.inc.php:336
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: ../inc/common.output.functions.inc.php:337
+msgid "Audiobooks"
+msgstr "Audiobooks"
+
+#: ../inc/common.output.functions.inc.php:338
+msgid "eBooks"
+msgstr "eBooks"
+
+#: ../inc/common.output.functions.inc.php:339
+msgid "Software"
+msgstr "Software"
+
+#: ../inc/common.output.functions.inc.php:340
+msgid "tvSeason"
+msgstr "tvSeason"
+
+#: ../inc/common.output.functions.inc.php:384
+msgid "Yes"
+msgstr "Yes"
+
+#: ../inc/common.output.functions.inc.php:385
+msgid "No"
+msgstr "No"
+
+#: ../views/admin.php:19
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: ../views/admin.php:23
+msgid "ID of Artist/Author/TV-Season etc"
+msgstr "ID of Artist/Author/TV-Season etc"
+
+#: ../views/admin.php:23
+msgid "find ID"
+msgstr "find ID"
+
+#: ../views/admin.php:25
+msgid "single ID [integer]. Use 'find ID'."
+msgstr "single ID [integer]. Use 'find ID'."
+
+#: ../views/admin.php:25
+msgid "get Shortcode"
+msgstr "get Shortcode"
+
+#: ../views/admin.php:29
+msgid "Type (check to <span class='red'>EXCLUDE</span>)"
+msgstr "Type (check to <span class='red'>EXCLUDE</span>)"
+
+#: ../views/admin.php:29
+msgid "Sort"
+msgstr "Sort"
+
+#: ../views/admin.php:29
+msgid "Label"
+msgstr "Label"
+
+#: ../views/admin.php:43
+msgid "Omit track/song/etc id's [comma separated]"
+msgstr "Omit track/song/etc id's [comma separated]"
+
+#: ../views/admin.php:50
+msgid "Exclude Singles from Collections ?"
+msgstr "Exclude Singles from Collections ?"
+
+#: ../views/admin.php:51
+msgid "readme"
+msgstr "readme"
+
+#: ../views/admin.php:62
+msgid "Show Label above each Type"
+msgstr "Show Label above each Type"
+
+#: ../views/admin.php:66
+msgid "Sort Lists By"
+msgstr "Sort Lists By"
+
+#: ../views/admin.php:80
+msgid "Max items PER TYPE"
+msgstr "Max items PER TYPE"
+
+#: ../views/admin.php:82
+msgid "[0=no limit]"
+msgstr "[0=no limit]"
+
+#: ../views/admin.php:86
+msgid "iTunes Store Country"
+msgstr "iTunes Store Country"
+
+#: ../views/admin.php:94
+msgid "which store to search"
+msgstr "which store to search"
+
+#: ../views/admin.php:98
+msgid "Store Language"
+msgstr "Store Language"
+
+#: ../views/admin.php:104
+msgid ""
+"only above are available on iTunes API, sorry. You can localize the frontend "
+"in the settings page though."
+msgstr ""
+"only above are available on iTunes API, sorry. You can localize the frontend "
+"in the settings page though."
+
+#: ../views/admin.php:107
+msgid "Display Explicit Items ?"
+msgstr "Display Explicit Items ?"
+
+#: ../views/admin.php:118
+msgid "Enter Search Term to find ID"
+msgstr "Enter Search Term to find ID"
+
+#: ../views/admin.php:122
+msgid "iTunes store to search"
+msgstr "iTunes store to search"
+
+#: ../views/admin.php:125
+msgid "Search by artist,publisher,etc. name"
+msgstr "Search by artist,publisher,etc. name"
+
+#: ../views/admin.php:126
+msgid "untick to also get results based on title etc"
+msgstr "untick to also get results based on title etc"
+
+#: ../views/admin.php:131
+msgid "search"
+msgstr "search"
+
+#~ msgid "Maximum Results [0-%d]"
+#~ msgstr "Maximum Results [0-%d]"
+
+#~ msgid "integers only [0-%d]"
+#~ msgstr "integers only [0-%d]"
