@@ -16,11 +16,11 @@
 .ilw-ini>ul>li,							.ilw-ini>div>ul>li{margin-bottom:5px;}
 .ilw-ini>ul>li>p,						.ilw-ini>div>ul>li>p{overflow:auto;font-size:75%;}/*p that holds the info within the list*/
 .ilw-ini>ul>li>p>span,					.ilw-ini>div>ul>li>p>span{font-size:110%;font-weight:600}/**title**/
-.ilw-ini>ul>li>p img,					.ilw-ini>div>ul>li>p img{float:left;margin-right:5px;}
+.ilw-ini>ul>li>p img,					.ilw-ini>div>ul>li>p img{float:left;margin-right:5px;width:75px;height:75px;}
 .ilw-ini>ul>li>p>span.rgt,				.ilw-ini>div>ul>li>p>span.rgt{font-weight:normal;float:right}
 .ilw-ini>ul>li>p>span.lft,				.ilw-ini>div>ul>li>p>span.lft{font-weight:normal;float:left}
-.ilw-ini>ul>li>p a.itunes-link,			.ilw-ini>div>ul>li>p a.itunes-link{padding-left:5px;}
-.ilw-ini>ul>li>p a.itunes-link:after ,	.ilw-ini>div>ul>li>p a.itunes-link:after { content:"\25B8";padding-left:3px;}
+.ilw-ini>ul>li>p a.itunes-link,			.ilw-ini>div>ul>li>p a.itunes-link{padding-left:5px;display:none;}
+.ilw-ini>ul>li>p a.itunes-link:after ,	.ilw-ini>div>ul>li>p a.itunes-link:after { content:"\25B8";padding-left:3px;display:none;}
 
 /**description*/
 .ilw-ini>ul>li>p.descr,				.ilw-ini>div>ul>li>p.descr{display:none}
